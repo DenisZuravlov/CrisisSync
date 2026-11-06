@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="128f7c86-b64d-4326-9883-07ef589fa0e4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DenisZuravlov"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/pom-file" />
+                    <option name="lastUsedInstant" value="1793957827" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1793957802" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/adding-pom-file" />
+                    <option name="lastUsedInstant" value="1793956697" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DenisZuravlov/CrisisSync.git",
+    "accountId": "e62c46b2-199d-4b43-a965-4342717f7642"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.00000000455469" />
+      <entry key="MS500" value="1.0219739061491089" />
+      <entry key="S2" value="1.6236827169512864" />
+      <entry key="S5" value="2.5351285525020226" />
+      <entry key="S10" value="3.1312821759678404" />
+      <entry key="S30" value="3.6728587335203646" />
+      <entry key="S60" value="3.831184725787171" />
+      <entry key="M2" value="3.9142359537358717" />
+      <entry key="M5" value="3.9653628646428936" />
+      <entry key="M10" value="3.982625673292688" />
+      <entry key="M15" value="3.9884046868462244" />
+      <entry key="M30" value="3.9941961196072637" />
+      <entry key="H1" value="3.997096502070526" />
+      <entry key="H2" value="3.9985478613793632" />
+      <entry key="H4" value="3.9992738332478646" />
+      <entry key="D1" value="3.999878958672028" />
+      <entry key="W1" value="3.9999827080501946" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9075191593937225" />
+      <entry key="MS500" value="1.002259892829811" />
+      <entry key="S2" value="1.6116446662082833" />
+      <entry key="S5" value="2.5235562893251227" />
+      <entry key="S10" value="3.1229436516793925" />
+      <entry key="S30" value="3.6692587183562857" />
+      <entry key="S60" value="3.8292613823887436" />
+      <entry key="M2" value="3.9132416606847444" />
+      <entry key="M5" value="3.964957078784884" />
+      <entry key="M10" value="3.982421415167782" />
+      <entry key="M15" value="3.9882682098564413" />
+      <entry key="M30" value="3.994127728275071" />
+      <entry key="H1" value="3.9970622681229426" />
+      <entry key="H2" value="3.9985307348261663" />
+      <entry key="H4" value="3.999265267575284" />
+      <entry key="D1" value="3.99987753072706" />
+      <entry key="W1" value="3.999982504049903" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Lj8UqNNJVGl6WnzENhGaeZRisD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Git.Working.Tree.Tab.closed.by.user": "closed",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="128f7c86-b64d-4326-9883-07ef589fa0e4" name="Changes" comment="" />
+      <created>1793956134974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793956134974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
