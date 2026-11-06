@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="128f7c86-b64d-4326-9883-07ef589fa0e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/artio/IdeaProjects/CrisisSync" value="3LjrCR96kZGOcIKiKfMragoZm9W" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DenisZuravlov&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/pom-file" />
+                    <option name="lastUsedInstant" value="1793957827" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1793957802" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/adding-pom-file" />
+                    <option name="lastUsedInstant" value="1793956697" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DenisZuravlov/CrisisSync.git&quot;,
+    &quot;accountId&quot;: &quot;e62c46b2-199d-4b43-a965-4342717f7642&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3121737033807463" />
+      <entry key="MS500" value="2.2871191010583964" />
+      <entry key="S2" value="5.680724668821267" />
+      <entry key="S5" value="7.841194507945759" />
+      <entry key="S10" value="8.902335224349557" />
+      <entry key="S30" value="12.303555780067217" />
+      <entry key="S60" value="16.900205671515383" />
+      <entry key="M2" value="21.96978681673769" />
+      <entry key="M5" value="29.268754315304655" />
+      <entry key="M10" value="37.023334975242705" />
+      <entry key="M15" value="44.73698717018518" />
+      <entry key="M30" value="71.05061027017823" />
+      <entry key="H1" value="121.7002593587414" />
+      <entry key="H2" value="184.35800419892132" />
+      <entry key="H4" value="237.04875299445717" />
+      <entry key="D1" value="299.0153606849253" />
+      <entry key="W1" value="311.79878112127363" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.139647653016278E-266" />
+      <entry key="S5" value="5.396807217755406E-107" />
+      <entry key="S10" value="7.346296493986213E-54" />
+      <entry key="S30" value="1.943969667195564E-18" />
+      <entry key="S60" value="1.3942631269583098E-9" />
+      <entry key="M2" value="3.733983420672537E-5" />
+      <entry key="M5" value="0.016958080966445205" />
+      <entry key="M10" value="0.13886339571919676" />
+      <entry key="M15" value="0.34472564039090986" />
+      <entry key="M30" value="1.5702055095488503" />
+      <entry key="H1" value="4.695711218627724" />
+      <entry key="H2" value="8.74310569340605" />
+      <entry key="H4" value="12.127339480586755" />
+      <entry key="D1" value="16.057752111603428" />
+      <entry key="W1" value="16.861779753148326" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1619238365332765" />
+      <entry key="MS500" value="2.2419753013030044" />
+      <entry key="S2" value="5.652832883649407" />
+      <entry key="S5" value="7.825753237470702" />
+      <entry key="S10" value="8.893562056504068" />
+      <entry key="S30" value="12.298831808785106" />
+      <entry key="S60" value="16.89609455628038" />
+      <entry key="M2" value="21.966420944157402" />
+      <entry key="M5" value="29.28283320123784" />
+      <entry key="M10" value="37.15873938179516" />
+      <entry key="M15" value="45.077319411261975" />
+      <entry key="M30" value="72.61406117460338" />
+      <entry key="H1" value="126.38779641689118" />
+      <entry key="H2" value="193.09403679813232" />
+      <entry key="H4" value="249.17130727196923" />
+      <entry key="D1" value="315.0720718463649" />
+      <entry key="W1" value="328.66040501585195" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Lj8UqNNJVGl6WnzENhGaeZRisD" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Git.Working.Tree.Tab.closed.by.user&quot;: &quot;closed&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="128f7c86-b64d-4326-9883-07ef589fa0e4" name="Changes" comment="" />
+      <created>1793956134974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793956134974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
