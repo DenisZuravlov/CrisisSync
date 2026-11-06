@@ -4,21 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="128f7c86-b64d-4326-9883-07ef589fa0e4" name="Changes" comment="" />
+    <list default="true" id="128f7c86-b64d-4326-9883-07ef589fa0e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/artio/IdeaProjects/CrisisSync" value="3LjrCR96kZGOcIKiKfMragoZm9W" />
+    </persistenceIdMap>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DenisZuravlov"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DenisZuravlov&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -48,76 +55,93 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DenisZuravlov/CrisisSync.git",
-    "accountId": "e62c46b2-199d-4b43-a965-4342717f7642"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DenisZuravlov/CrisisSync.git&quot;,
+    &quot;accountId&quot;: &quot;e62c46b2-199d-4b43-a965-4342717f7642&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.00000000455469" />
-      <entry key="MS500" value="1.0219739061491089" />
-      <entry key="S2" value="1.6236827169512864" />
-      <entry key="S5" value="2.5351285525020226" />
-      <entry key="S10" value="3.1312821759678404" />
-      <entry key="S30" value="3.6728587335203646" />
-      <entry key="S60" value="3.831184725787171" />
-      <entry key="M2" value="3.9142359537358717" />
-      <entry key="M5" value="3.9653628646428936" />
-      <entry key="M10" value="3.982625673292688" />
-      <entry key="M15" value="3.9884046868462244" />
-      <entry key="M30" value="3.9941961196072637" />
-      <entry key="H1" value="3.997096502070526" />
-      <entry key="H2" value="3.9985478613793632" />
-      <entry key="H4" value="3.9992738332478646" />
-      <entry key="D1" value="3.999878958672028" />
-      <entry key="W1" value="3.9999827080501946" />
+      <entry key="MS100" value="1.000000000002104" />
+      <entry key="MS500" value="1.004674584103114" />
+      <entry key="S2" value="1.3467974065381485" />
+      <entry key="S5" value="1.9590224238182" />
+      <entry key="S10" value="2.3765850302320555" />
+      <entry key="S30" value="2.7816569407086282" />
+      <entry key="S60" value="3.0516487918712643" />
+      <entry key="M2" value="3.9814434027651675" />
+      <entry key="M5" value="7.860784811045114" />
+      <entry key="M10" value="14.216175251001784" />
+      <entry key="M15" value="21.50892953390635" />
+      <entry key="M30" value="47.56451475683798" />
+      <entry key="H1" value="98.04799561730334" />
+      <entry key="H2" value="160.20520014228657" />
+      <entry key="H4" value="212.25489241440488" />
+      <entry key="D1" value="273.27167782623496" />
+      <entry key="W1" value="285.8370260069583" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S2" value="1.5944906380831808E-249" />
+      <entry key="S5" value="3.027253496394776E-100" />
+      <entry key="S10" value="1.7399004271494335E-50" />
+      <entry key="S30" value="2.59124293842433E-17" />
+      <entry key="S60" value="5.090425265559188E-9" />
+      <entry key="M2" value="7.134721858691472E-5" />
+      <entry key="M5" value="0.021971442421772718" />
+      <entry key="M10" value="0.1580624515316213" />
+      <entry key="M15" value="0.3758093162346127" />
+      <entry key="M30" value="1.639470000910038" />
+      <entry key="H1" value="4.798161582339118" />
+      <entry key="H2" value="8.837968979053608" />
+      <entry key="H4" value="12.192953207503837" />
+      <entry key="D1" value="16.072199380412474" />
+      <entry key="W1" value="16.86394615480121" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9075191593937225" />
-      <entry key="MS500" value="1.002259892829811" />
-      <entry key="S2" value="1.6116446662082833" />
-      <entry key="S5" value="2.5235562893251227" />
-      <entry key="S10" value="3.1229436516793925" />
-      <entry key="S30" value="3.6692587183562857" />
-      <entry key="S60" value="3.8292613823887436" />
-      <entry key="M2" value="3.9132416606847444" />
-      <entry key="M5" value="3.964957078784884" />
-      <entry key="M10" value="3.982421415167782" />
-      <entry key="M15" value="3.9882682098564413" />
-      <entry key="M30" value="3.994127728275071" />
-      <entry key="H1" value="3.9970622681229426" />
-      <entry key="H2" value="3.9985307348261663" />
-      <entry key="H4" value="3.999265267575284" />
-      <entry key="D1" value="3.99987753072706" />
-      <entry key="W1" value="3.999982504049903" />
+      <entry key="MS100" value="0.8766057213170031" />
+      <entry key="MS500" value="0.978007315384804" />
+      <entry key="S2" value="1.3273469923795842" />
+      <entry key="S5" value="1.9421800748168547" />
+      <entry key="S10" value="2.3650870088021088" />
+      <entry key="S30" value="2.7768665435270075" />
+      <entry key="S60" value="3.0489829564393776" />
+      <entry key="M2" value="3.9795034879234352" />
+      <entry key="M5" value="7.880564675266985" />
+      <entry key="M10" value="14.37103524835712" />
+      <entry key="M15" value="21.8804319694755" />
+      <entry key="M30" value="49.197170061546416" />
+      <entry key="H1" value="102.83792278461867" />
+      <entry key="H2" value="169.03607811909575" />
+      <entry key="H4" value="224.443063894923" />
+      <entry key="D1" value="289.3428402070891" />
+      <entry key="W1" value="302.7008169811545" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Lj8UqNNJVGl6WnzENhGaeZRisD" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -131,7 +155,9 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
