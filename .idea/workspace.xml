@@ -63,62 +63,65 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000002104" />
-      <entry key="MS500" value="1.004674584103114" />
-      <entry key="S2" value="1.3467974065381485" />
-      <entry key="S5" value="1.9590224238182" />
-      <entry key="S10" value="2.3765850302320555" />
-      <entry key="S30" value="2.7816569407086282" />
-      <entry key="S60" value="3.0516487918712643" />
-      <entry key="M2" value="3.9814434027651675" />
-      <entry key="M5" value="7.860784811045114" />
-      <entry key="M10" value="14.216175251001784" />
-      <entry key="M15" value="21.50892953390635" />
-      <entry key="M30" value="47.56451475683798" />
-      <entry key="H1" value="98.04799561730334" />
-      <entry key="H2" value="160.20520014228657" />
-      <entry key="H4" value="212.25489241440488" />
-      <entry key="D1" value="273.27167782623496" />
-      <entry key="W1" value="285.8370260069583" />
+      <entry key="MS100" value="1.3121737033807463" />
+      <entry key="MS500" value="2.2871191010583964" />
+      <entry key="S2" value="5.680724668821267" />
+      <entry key="S5" value="7.841194507945759" />
+      <entry key="S10" value="8.902335224349557" />
+      <entry key="S30" value="12.303555780067217" />
+      <entry key="S60" value="16.900205671515383" />
+      <entry key="M2" value="21.96978681673769" />
+      <entry key="M5" value="29.268754315304655" />
+      <entry key="M10" value="37.023334975242705" />
+      <entry key="M15" value="44.73698717018518" />
+      <entry key="M30" value="71.05061027017823" />
+      <entry key="H1" value="121.7002593587414" />
+      <entry key="H2" value="184.35800419892132" />
+      <entry key="H4" value="237.04875299445717" />
+      <entry key="D1" value="299.0153606849253" />
+      <entry key="W1" value="311.79878112127363" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.5944906380831808E-249" />
-      <entry key="S5" value="3.027253496394776E-100" />
-      <entry key="S10" value="1.7399004271494335E-50" />
-      <entry key="S30" value="2.59124293842433E-17" />
-      <entry key="S60" value="5.090425265559188E-9" />
-      <entry key="M2" value="7.134721858691472E-5" />
-      <entry key="M5" value="0.021971442421772718" />
-      <entry key="M10" value="0.1580624515316213" />
-      <entry key="M15" value="0.3758093162346127" />
-      <entry key="M30" value="1.639470000910038" />
-      <entry key="H1" value="4.798161582339118" />
-      <entry key="H2" value="8.837968979053608" />
-      <entry key="H4" value="12.192953207503837" />
-      <entry key="D1" value="16.072199380412474" />
-      <entry key="W1" value="16.86394615480121" />
+      <entry key="S2" value="2.139647653016278E-266" />
+      <entry key="S5" value="5.396807217755406E-107" />
+      <entry key="S10" value="7.346296493986213E-54" />
+      <entry key="S30" value="1.943969667195564E-18" />
+      <entry key="S60" value="1.3942631269583098E-9" />
+      <entry key="M2" value="3.733983420672537E-5" />
+      <entry key="M5" value="0.016958080966445205" />
+      <entry key="M10" value="0.13886339571919676" />
+      <entry key="M15" value="0.34472564039090986" />
+      <entry key="M30" value="1.5702055095488503" />
+      <entry key="H1" value="4.695711218627724" />
+      <entry key="H2" value="8.74310569340605" />
+      <entry key="H4" value="12.127339480586755" />
+      <entry key="D1" value="16.057752111603428" />
+      <entry key="W1" value="16.861779753148326" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8766057213170031" />
-      <entry key="MS500" value="0.978007315384804" />
-      <entry key="S2" value="1.3273469923795842" />
-      <entry key="S5" value="1.9421800748168547" />
-      <entry key="S10" value="2.3650870088021088" />
-      <entry key="S30" value="2.7768665435270075" />
-      <entry key="S60" value="3.0489829564393776" />
-      <entry key="M2" value="3.9795034879234352" />
-      <entry key="M5" value="7.880564675266985" />
-      <entry key="M10" value="14.37103524835712" />
-      <entry key="M15" value="21.8804319694755" />
-      <entry key="M30" value="49.197170061546416" />
-      <entry key="H1" value="102.83792278461867" />
-      <entry key="H2" value="169.03607811909575" />
-      <entry key="H4" value="224.443063894923" />
-      <entry key="D1" value="289.3428402070891" />
-      <entry key="W1" value="302.7008169811545" />
+      <entry key="MS100" value="1.1619238365332765" />
+      <entry key="MS500" value="2.2419753013030044" />
+      <entry key="S2" value="5.652832883649407" />
+      <entry key="S5" value="7.825753237470702" />
+      <entry key="S10" value="8.893562056504068" />
+      <entry key="S30" value="12.298831808785106" />
+      <entry key="S60" value="16.89609455628038" />
+      <entry key="M2" value="21.966420944157402" />
+      <entry key="M5" value="29.28283320123784" />
+      <entry key="M10" value="37.15873938179516" />
+      <entry key="M15" value="45.077319411261975" />
+      <entry key="M30" value="72.61406117460338" />
+      <entry key="H1" value="126.38779641689118" />
+      <entry key="H2" value="193.09403679813232" />
+      <entry key="H4" value="249.17130727196923" />
+      <entry key="D1" value="315.0720718463649" />
+      <entry key="W1" value="328.66040501585195" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
@@ -146,26 +149,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Git.Working.Tree.Tab.closed.by.user": "closed",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "Rebasing main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Git.Working.Tree.Tab.closed.by.user&quot;: &quot;closed&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
